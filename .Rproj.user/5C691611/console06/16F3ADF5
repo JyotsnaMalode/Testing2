@@ -1,0 +1,5 @@
+]0;~/Documents/Jyotsna/RProject/Testing2[?1034harpanmac:Testing2 arpan$ [Karpanmac:Testing2 arpan$ pwd
+/Users/arpan/Documents/Jyotsna/RProject/Testing2
+]0;~/Documents/Jyotsna/RProject/Testing2arpanmac:Testing2 arpan$ cd [K[K[Kgit init
+Initialized empty Git repository in /Users/arpan/Documents/Jyotsna/RProject/Testing2/.git/
+]0;~/Documents/Jyotsna/RProject/Testing2arpanmac:Testing2 arpan$ git add .
